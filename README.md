@@ -24,7 +24,7 @@ Codex [loads project-level `AGENTS.md` automatically](https://learn.chatgpt.com/
 4. Give Codex the prompt below, filling in the technology and learning goal.
 5. When Codex finishes, run the documented exercise yourself. Change one input or setting, compare the observed result with the explanation, and use the generated `mld/` guide to explore further. Ask for a deeper iteration only when you need one.
 
-Each Lab produces a root-level `mld/` directory containing eight short guides on its chosen technology: `concepts-and-fundamentals.md`, `tutorial.md`, `use-cases.md`, `essential-links.md`, `github-repositories.md`, `best-practices.md`, `bad-practices.md`, and `next-iterations.md`.
+Each Lab produces a root-level `mld/` directory containing eight guides on its chosen technology, named in sequence: `01-concepts-and-fundamentals.md`, `02-tutorial.md`, `03-use-cases.md`, `04-essential-links.md`, `05-github-repositories.md`, `06-best-practices.md`, `07-bad-practices.md`, and `08-next-iterations.md`. The concepts, tutorial, use cases, best practices, and bad practices guides explain the technology's general foundations beyond the Lab, using its deployment as a concrete example.
 
 ## Starter prompt
 
